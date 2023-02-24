@@ -1,0 +1,11 @@
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/controller/PostsController.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/SecurityConfiguration.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/model/Post.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/model/User.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/repository/AuthoritiesRepository.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/repository/PostRepository.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/Application.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/controller/HomeController.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/model/Authority.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/repository/UserRepository.java
+/Users/adamlittle/Documents/extending-testing/acebook-java-template/src/main/java/com/makersacademy/acebook/controller/UsersController.java
